@@ -1,0 +1,12 @@
+c:\users\steenio_\documents\visual studio 2012\Projects\Projeto_Adapter\Projeto_Adapter\bin\Debug\Projeto_Adapter.exe.config
+c:\users\steenio_\documents\visual studio 2012\Projects\Projeto_Adapter\Projeto_Adapter\bin\Debug\Projeto_Adapter.exe
+c:\users\steenio_\documents\visual studio 2012\Projects\Projeto_Adapter\Projeto_Adapter\bin\Debug\Projeto_Adapter.pdb
+c:\users\steenio_\documents\visual studio 2012\Projects\Projeto_Adapter\Projeto_Adapter\obj\Debug\Projeto_Adapter.csprojResolveAssemblyReference.cache
+c:\users\steenio_\documents\visual studio 2012\Projects\Projeto_Adapter\Projeto_Adapter\obj\Debug\Projeto_Adapter.exe
+c:\users\steenio_\documents\visual studio 2012\Projects\Projeto_Adapter\Projeto_Adapter\obj\Debug\Projeto_Adapter.pdb
+F:\Projeto_Adapter\Projeto_Adapter\bin\Debug\Projeto_Adapter.exe.config
+F:\Projeto_Adapter\Projeto_Adapter\obj\Debug\Projeto_Adapter.exe
+F:\Projeto_Adapter\Projeto_Adapter\obj\Debug\Projeto_Adapter.pdb
+F:\Projeto_Adapter\Projeto_Adapter\bin\Debug\Projeto_Adapter.exe
+F:\Projeto_Adapter\Projeto_Adapter\bin\Debug\Projeto_Adapter.pdb
+F:\Projeto_Adapter\Projeto_Adapter\obj\Debug\Projeto_Adapter.csprojResolveAssemblyReference.cache
